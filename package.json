@@ -1,14 +1,14 @@
 {
   "name": "george",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "",
   "main": "server.js",
   "scripts": {
     "test": "node ."
   },
-  "author": "Cheese Curd | Trey",
+  "author": "Eliana",
   "license": "ISC",
   "dependencies": {
-    "discord.js": "^12.5.3"
+    "eris": "^0.17.2"
   }
 }

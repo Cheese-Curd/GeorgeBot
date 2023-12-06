@@ -1,4 +1,7 @@
-{   "insults":
+{
+	"debug": false,
+
+	"insults":
     [
         "I wish you had legs, so I could legswipe you.",
         "you're a bitch.",
